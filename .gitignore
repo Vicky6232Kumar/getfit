@@ -60,3 +60,5 @@ logs/
 *.log
 application-local.yml
 application-local.properti
+
+.env
